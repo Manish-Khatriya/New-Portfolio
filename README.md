@@ -27,7 +27,8 @@ Inspired by <a href="https://github.com/saadpasta/developerFolio/">developerFoli
 ✔️ Open Source Projects Connected with Github\
 😃 Feel Free to contribute ;)
 
-Live Version: https://Manish-Khatriya.github.io/glassFolio/
+Live Version: [https://manish-khatriya.github.io/New-Portfolio/](https://manish-khatriya.github.io/New-Portfolio/)
+
 
 ## Linking your github repo
 This project utilises the modified version of <a href="https://github.com/Tarptaeya/repo-card">Repo-Card</a> which utilises Github Free API to fetch details.
